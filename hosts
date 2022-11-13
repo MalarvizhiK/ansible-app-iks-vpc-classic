@@ -1,0 +1,5 @@
+[myvirtualmachines]
+localhost
+
+[classicserver03]
+classicserver03.VNF-Experiments-Account.cloud ansible_ssh_host=169.38.71.118 ansible_connection=ssh ansible_ssh_user=root
