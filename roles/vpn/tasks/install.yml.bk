@@ -1,0 +1,11 @@
+---
+- name: Install strongswan
+  package:
+    name:
+      - strongswan
+
+- name: IPSec must be running
+  service:
+    name: strongswan
+    enabled: true
+    state: started
