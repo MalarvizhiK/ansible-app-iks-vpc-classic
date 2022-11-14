@@ -1,6 +1,7 @@
-# Automating web application deployment with NLB on IBM Cloud Kubernetes Service
+# Automating web application deployment with NLB on IBM Cloud Kubernetes Service 
+# Configure Strongswan VPN in Classic VM 
 
-# ansible-app-iks-tg-dns
+# ansible-app-iks-vpc-classic
 To run locally in your mac to configure a webapp in a IKS cluster
 
 Before executing the ansible playbook:
